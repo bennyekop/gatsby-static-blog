@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Gatsby Static Blog`,
-    author: `Benny Ekop`,
+    author: `Benny Eko Priharyanto`,
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://happy-benz-7d7662.netlify.com/`,
     social: {
