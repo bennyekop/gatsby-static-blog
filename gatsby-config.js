@@ -3,7 +3,7 @@ module.exports = {
     title: `Gatsby Static Blog`,
     author: `Benny Ekop`,
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://happy-benz-7d7662.netlify.com/`,
     social: {
       instagram: `bennyekop`,
     },
